@@ -33,7 +33,7 @@ namespace FitnessApp.Forms
             string[] values = new string[]
             {
                 textBox1.Text,
-                dateTimePicker1.Value,
+                dateTimePicker1.Value.ToString(),
                 textBox2.Text,
                 textBox3.Text,
                 comboBox1.Text = (comboBox1.Text == "Тренер")? "1": "0"
