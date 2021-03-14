@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe.config
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\bin\Debug\FitnessApp.pdb
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Properties.Resources.resources
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.exe
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.pdb
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Forms.InitialStart.resources
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Forms.Login.resources
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Main.resources
+C:\Users\PC\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Forms.AddUser.resources
